@@ -1,4 +1,5 @@
 請執行以下指令:  
+(建議先建虛擬環境，並在虛擬環境下執行)
 pip install -r /path/to/requirements.txt  
 python demo_server.py xxxx         (xxxx為port數字)  
 
